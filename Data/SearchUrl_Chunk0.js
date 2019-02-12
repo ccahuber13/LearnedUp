@@ -1,0 +1,1 @@
+define({"../content/1.htm":0,"../content/2.htm":2,"../content/index.htm":1,});
